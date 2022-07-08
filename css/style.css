@@ -14,7 +14,6 @@ Dark green: #28b485
 }
 
 body {
-  font-family: "Lato", Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -67,11 +66,11 @@ body {
 }
 
 .heading-primary-main {
-  font-family: Times New Roman;
+  font-family: 'Merriweather', sans-serif;
   display: block;
   font-size: 60px;
   font-weight: 400;
-  letter-spacing: 35px;
+  letter-spacing: 25px;
 
   animation: moveInLeft;
   animation-duration: 1s;
@@ -79,7 +78,7 @@ body {
 }
 
 .heading-primary-sub {
-  font-family: georgia;
+  font-family: 'Oswald', sans-serif;
   display: block;
   font-size: 20px;
   font-weight: 700;
